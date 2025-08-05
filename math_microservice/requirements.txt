@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+flake8
+sqlalchemy
+aiosqlite
+requests
+python-json-logger
+cachetools
