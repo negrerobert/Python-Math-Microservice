@@ -24,7 +24,7 @@ API Layer (FastAPI Routes) → Controllers (Business Logic) → Models (Database
 - **Python 3.8+**
 - **Dependencies**: FastAPI, SQLAlchemy, Pydantic, SQLite (see `requirements.txt`)
 
-## 🛠️ Installation & Setup
+## Installation & Setup
 
 ### 1. Clone Repository
 ```bash
