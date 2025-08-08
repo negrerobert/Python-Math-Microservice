@@ -2,6 +2,12 @@
 
 A microservice for mathematical operations built with FastAPI, featuring database persistence, caching and monitoring.
 
+<img width="1896" height="996" alt="Screenshot 2025-08-08 121805" src="https://github.com/user-attachments/assets/d3bbd367-32ba-4547-a95e-5b89d57aab82" />
+
+<img width="1851" height="1117" alt="Screenshot 2025-08-08 121819" src="https://github.com/user-attachments/assets/56ca93a1-8fd8-4241-873e-f1dee3d66360" />
+
+
+
 ## Core Features
 
 - **Mathematical Operations**: Power (`a^b`), Fibonacci sequence, Factorial calculations
